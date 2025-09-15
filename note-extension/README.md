@@ -78,4 +78,13 @@ note-extension/
 ## 📖 Observações
 - O botão **Salvar** grava o texto diretamente no armazenamento local do Chrome.  
 - As notas são mantidas mesmo que o navegador seja fechado e reaberto.  
-- Este projeto segue a estrutura solicitada no Bootcamp.  
+- Este projeto segue a estrutura solicitada no Bootcamp.
+  
+---
+
+## 🔗 Links do Projeto
+
+- 📂 Repositório: [GitHub Code](https://github.com/Pedrobsz/bootcamp2-chrome-ext-pedrobsz.git)
+- 🌐 Landing Page: [GitHub Pages](https://pedrobsz.github.io/bootcamp2-chrome-ext-pedrobsz/)
+- 🚀 Release: [Página da Release](https://github.com/Pedrobsz/bootcamp2-chrome-ext-pedrobsz/releases/tag/untagged-8545222a7756cfa437da)
+- 📦 Download ZIP: [Extensão para instalação](https://github.com/Pedrobsz/bootcamp2-chrome-ext-pedrobsz/releases/download/untagged-d1cffc8f4cdb3592ac5b/note-extension.zip)

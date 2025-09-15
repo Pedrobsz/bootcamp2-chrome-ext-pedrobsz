@@ -18,24 +18,43 @@ As anotações ficam persistidas no navegador e são restauradas automaticamente
 ---
 
 ## 📂 Estrutura do projeto
+
 note-extension/
+
 ├─ docs/               # Página do projeto (GitHub Pages)
+
 │  └─ index.html
+
 ├─ icons/              # Ícones da extensão
+
 │  └─ icon.png
+
 ├─ src/
+
 │  ├─ background/      # Scripts em segundo plano (service worker)
+
 │  │  └─ service-worker.js
+
 │  ├─ content/         # Scripts injetados em páginas
+
 │  │  └─ content.js
+
 │  ├─ popup/           # Interface do popup
+
 │  │  ├─ popup.css
+
 │  │  ├─ popup.html
+
 │  │  └─ popup.js
+
 │  └─ styles/          # Estilos globais
+
 │     └─ global.css
+
 ├─ LICENSE
+
 ├─ manifest.json       # Configuração principal da extensão
+
 └─ README.md           # Documentação do projeto
 
 ---

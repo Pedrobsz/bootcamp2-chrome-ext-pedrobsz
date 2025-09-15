@@ -8,7 +8,7 @@ As anotações ficam persistidas no navegador e são restauradas automaticamente
 ---
 
 ## 🚀 Como carregar a extensão no Chrome
-1. Baixe ou clone este repositório.  
+1. Baixe o arquivo ZIP.  
 2. Abra o Google Chrome e acesse `chrome://extensions/`.  
 3. Ative o **Modo do desenvolvedor** (canto superior direito).  
 4. Clique em **Carregar sem compactação (Load unpacked)**.  
@@ -86,5 +86,5 @@ note-extension/
 
 - 📂 Repositório: [GitHub Code](https://github.com/Pedrobsz/bootcamp2-chrome-ext-pedrobsz.git)
 - 🌐 Landing Page: [GitHub Pages](https://pedrobsz.github.io/bootcamp2-chrome-ext-pedrobsz/)
-- 🚀 Release: [Página da Release](https://github.com/Pedrobsz/bootcamp2-chrome-ext-pedrobsz/releases/tag/untagged-8545222a7756cfa437da)
+- 🚀 Release: [Página da Release](https://github.com/Pedrobsz/bootcamp2-chrome-ext-pedrobsz/releases)
 - 📦 Download ZIP: [Extensão para instalação](https://github.com/Pedrobsz/bootcamp2-chrome-ext-pedrobsz/releases/download/untagged-d1cffc8f4cdb3592ac5b/note-extension.zip)
